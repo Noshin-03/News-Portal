@@ -1,0 +1,4 @@
+nano_modules/
+*.log
+.DS_Store
+.env
